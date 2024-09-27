@@ -1,2 +1,2 @@
 # RT116-NehissaB
-class work and homework repo for rtt116
+Class work and Homework repo for rtt116
