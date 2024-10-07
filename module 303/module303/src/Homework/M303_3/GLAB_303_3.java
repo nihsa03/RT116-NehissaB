@@ -3,8 +3,6 @@ package Homework.M303_3;
 import java.util.Arrays;
 import java.util.Scanner;
 
-import java.util.Arrays;
-import java.util.Scanner;
 
 public class GLAB_303_3 {
     public static void main(String[] args) {
