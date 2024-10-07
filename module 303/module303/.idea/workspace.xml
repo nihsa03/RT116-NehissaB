@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3ca7d64-c5a4-4d32-a580-266bc65b66f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../rtt Modules/src/ClassWorks/M303_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rtt Modules/src/ClassWorks/M303_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module303.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/module303.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/M303_2/GLAB_303_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/Homework/M303_2/GLAB_303_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/M303_2/PA_303_2OPandNUM.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/Homework/M303_2/PA_303_2OPandNUM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/M303_2/PA_303_2Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/Homework/M303_2/PA_303_2Scanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/M303_2/PA_303_2Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/Homework/M303_2/PA_303_2Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/M303_3/GLAB_303_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/Homework/M303_3/GLAB_303_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/M303_3/PA_303_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/Homework/M303_3/PA_303_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimitiveDataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/PrimitiveDataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Welcome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/Welcome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/persholas/IncremenVar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/org/persholas/IncremenVar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/persholas/Lesson303dot2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/org/persholas/Lesson303dot2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/persholas/PrimitiveTypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/org/persholas/PrimitiveTypeCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/persholas/ScannerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/org/persholas/ScannerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/persholas/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/org/persholas/Second.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/persholas/StringEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/org/persholas/StringEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/persholas/WrappperClassesEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/org/persholas/WrappperClassesEx.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Homework/M303_2/GLAB_303_2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/org/persholas/ScannerClass.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2mtC8xOvR7enDLmao4nWqVXMVNB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Lesson303dot2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.M303_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimitiveDataType.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimitiveDataTypes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimitiveTypeCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerClass.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.StringEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Welcome.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nehis/rtt-116 development folder/rtt-116-ClassWork&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/nehis/rtt-116 development folder/rtt-116-ClassWork/module 303/module303/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="ScannerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.persholas.ScannerClass" />
+      <module name="module303" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.persholas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ScannerClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3ca7d64-c5a4-4d32-a580-266bc65b66f0" name="Changes" comment="" />
+      <created>1727886334555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727886334555</updated>
+      <workItem from="1727886337531" duration="17797000" />
+      <workItem from="1727985623041" duration="23193000" />
+      <workItem from="1728319958538" duration="26000" />
+      <workItem from="1728320006944" duration="1218000" />
+      <workItem from="1728326155629" duration="80000" />
+      <workItem from="1728326278588" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../rtt Modules/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
