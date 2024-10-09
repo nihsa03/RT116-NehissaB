@@ -103,9 +103,9 @@ public class GLAB_303_2 {
         double a2 = 40.5;
         long p = 30;
         float q = 10.60f;
-        double z = a1 + a2;
+        double t = a1 + a2;
         System.out.println("\nAuto Type Conversion Demo:");
-        System.out.println("Sum of two numbers: " + z);
+        System.out.println("Sum of two numbers: " + t);
 
         float r = p - q;
         System.out.println("Subtraction of two numbers: " + r);
