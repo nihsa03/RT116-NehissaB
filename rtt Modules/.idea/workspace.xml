@@ -5,31 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6c51b28-4b06-44ba-8a37-7deb23bb8f81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ClassWorks/M303_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassWorks/M303_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 303/module303/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 303/module303/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 303/module303/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 303/module303/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 303/module303/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 303/module303/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 303/module303/module303.iml" beforeDir="false" afterPath="$PROJECT_DIR$/module303.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 303/module303/src/Homework/M303_2/GLAB_303_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/M303_2/GLAB_303_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 303/module303/src/Homework/M303_2/PA_303_2OPandNUM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/M303_2/PA_303_2OPandNUM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 303/module303/src/Homework/M303_2/PA_303_2Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/M303_2/PA_303_2Scanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 303/module303/src/Homework/M303_2/PA_303_2Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/M303_2/PA_303_2Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 303/module303/src/Homework/M303_3/GLAB_303_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/M303_3/GLAB_303_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 303/module303/src/Homework/M303_3/PA_303_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/M303_3/PA_303_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 303/module303/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 303/module303/src/PrimitiveDataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimitiveDataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 303/module303/src/Welcome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Welcome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 303/module303/src/org/persholas/IncremenVar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/persholas/IncremenVar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 303/module303/src/org/persholas/Lesson303dot2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/persholas/Lesson303dot2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 303/module303/src/org/persholas/PrimitiveTypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/persholas/PrimitiveTypeCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 303/module303/src/org/persholas/ScannerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/persholas/ScannerClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 303/module303/src/org/persholas/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/persholas/Second.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 303/module303/src/org/persholas/StringEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/persholas/StringEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 303/module303/src/org/persholas/WrappperClassesEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/persholas/WrappperClassesEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module 303/module303/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../module 303/module303/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +41,21 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="rtt Modules" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="rtt Modules" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -83,7 +75,8 @@
       <workItem from="1728318041864" duration="1892000" />
       <workItem from="1728319985935" duration="20000" />
       <workItem from="1728326186271" duration="45000" />
-      <workItem from="1728326305709" duration="3927000" />
+      <workItem from="1728326305709" duration="4518000" />
+      <workItem from="1728335269249" duration="1389000" />
     </task>
     <servers />
   </component>

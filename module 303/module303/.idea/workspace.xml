@@ -5,31 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3ca7d64-c5a4-4d32-a580-266bc65b66f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../rtt Modules/src/ClassWorks/M303_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../rtt Modules/src/ClassWorks/M303_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/module303.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/module303.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/M303_2/GLAB_303_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/Homework/M303_2/GLAB_303_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/M303_2/PA_303_2OPandNUM.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/Homework/M303_2/PA_303_2OPandNUM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/M303_2/PA_303_2Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/Homework/M303_2/PA_303_2Scanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/M303_2/PA_303_2Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/Homework/M303_2/PA_303_2Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/M303_3/GLAB_303_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/Homework/M303_3/GLAB_303_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/M303_3/PA_303_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/Homework/M303_3/PA_303_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimitiveDataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/PrimitiveDataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Welcome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/Welcome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/persholas/IncremenVar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/org/persholas/IncremenVar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/persholas/Lesson303dot2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/org/persholas/Lesson303dot2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/persholas/PrimitiveTypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/org/persholas/PrimitiveTypeCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/persholas/ScannerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/org/persholas/ScannerClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/persholas/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/org/persholas/Second.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/persholas/StringEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/org/persholas/StringEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/persholas/WrappperClassesEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/org/persholas/WrappperClassesEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rtt Modules/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,6 +109,7 @@
       <workItem from="1728320006944" duration="1218000" />
       <workItem from="1728326155629" duration="80000" />
       <workItem from="1728326278588" duration="25000" />
+      <workItem from="1728335262673" duration="4000" />
     </task>
     <servers />
   </component>
