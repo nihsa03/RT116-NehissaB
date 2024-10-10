@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3ca7d64-c5a4-4d32-a580-266bc65b66f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../rtt Modules/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../rtt Modules/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../rtt Modules/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../rtt Modules/src/Homework/M303_2/GLAB_303_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/Homework/M303_2/GLAB_303_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rtt Modules/src/PrimitiveDataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rtt Modules/src/org/persholas/PrimitiveDataTypes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

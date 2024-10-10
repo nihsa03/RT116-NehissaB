@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6c51b28-4b06-44ba-8a37-7deb23bb8f81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rtt Modules.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/M303_5/GLAB_303_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/M303_6/GLAB_303_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../module 303/module303/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../module 303/module303/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/M303_2/GLAB_303_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/M303_2/GLAB_303_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimitiveDataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/persholas/PrimitiveDataTypes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +91,7 @@
       <workItem from="1728326186271" duration="45000" />
       <workItem from="1728326305709" duration="4518000" />
       <workItem from="1728335269249" duration="1437000" />
-      <workItem from="1728483770457" duration="3998000" />
+      <workItem from="1728483770457" duration="5410000" />
     </task>
     <servers />
   </component>
