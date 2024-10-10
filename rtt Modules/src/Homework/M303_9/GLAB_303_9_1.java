@@ -1,19 +1,19 @@
 package Homework.M303_9;
 
-public class GLAB_303_9 { // Combined class for encapsulation example
+public class GLAB_303_9_1 { // Combined class for encapsulation example
 
     // HumanBeing class demonstrating encapsulation
     private float weight;
     private float height;
     private float bmi;
 
-    public GLAB_303_9(float weight, float height) {
+    public GLAB_303_9_1(float weight, float height) {
         this.weight = weight;
         this.height = height;
         this.bmi = calculateBmi();
     }
 
-    public GLAB_303_9() {
+    public GLAB_303_9_1() {
         // Default constructor
     }
 
@@ -45,7 +45,7 @@ public class GLAB_303_9 { // Combined class for encapsulation example
 
     // Main method to demonstrate encapsulation
     public static void main(String[] args) {
-        GLAB_303_9 h1 = new GLAB_303_9();
+        GLAB_303_9_1 h1 = new GLAB_303_9_1();
         // Using setters of GLAB_303_9
         h1.setHeight(1.65f);
         h1.setWeight(68);
