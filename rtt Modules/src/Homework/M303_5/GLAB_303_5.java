@@ -43,8 +43,8 @@ public class GLAB_303_5 {
             System.out.println(); // new line
         }
     }
-
-    // 5. Guess the magic number
+//303_5_2
+    // 1. Guess the magic number
     public static void guessTheNumber() {
         int number = (int) (Math.random() * 101);
         Scanner input = new Scanner(System.in);
@@ -63,7 +63,7 @@ public class GLAB_303_5 {
         }
     }
 
-    // 6. Subtraction quiz
+    // 2. Subtraction quiz
     public static void subtractionQuiz() {
         final int NUMBER_OF_QUESTIONS = 5; // Number of questions
         int correctCount = 0; // Count the number of correct answers
@@ -90,7 +90,7 @@ public class GLAB_303_5 {
         }
     }
 
-    // 7. Sentinel value example
+    // 3. Sentinel value example
     public static void sentinelValueDemo() {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter an int value (the program exits if the input is 0): ");
