@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6c51b28-4b06-44ba-8a37-7deb23bb8f81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ClassWorks/M303_9/updated/AreaCalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassWorks/M303_9/updated/CalcRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassWorks/M303_9/updated/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassWorks/M303_9/updated/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassWorks/M303_9/updated/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassWorks/M303_9/updated/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassWorks/M303_9/updated/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoffeShop/CoffeeShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoffeShop/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/M303_10/GLAB_303_10_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/M303_10/GLAB_303_10_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/M303_10/GLAB_303_10_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/M303_10/GLAB_303_10_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/M303_10/PA_303_10_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/M303_10/PA_303_10_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/M303_10/PA_303_10_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/M303_5/GLAB_303_5_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/persholas/SBAReview.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClassWorks/M303_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClassWorks/M303_5.java" beforeDir="false" />
-    </list>
+    <list default="true" id="c6c51b28-4b06-44ba-8a37-7deb23bb8f81" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +84,7 @@
       <workItem from="1728326305709" duration="4518000" />
       <workItem from="1728335269249" duration="1437000" />
       <workItem from="1728483770457" duration="22117000" />
-      <workItem from="1728655507796" duration="5816000" />
+      <workItem from="1728655507796" duration="5935000" />
     </task>
     <servers />
   </component>
