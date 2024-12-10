@@ -8,7 +8,7 @@
         <!-- setting this to validate will cause hibernate to compare the entity to the database -->
         <property name="hbm2ddl.auto">validate</property>
 
-        <!-- this is telling hibernate what database is being used in the back end .. in our case mysql -->
+        <!-- this is telling hibernate what database is being used in the back end ...in our case mysql -->
         <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
         <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
 
@@ -18,20 +18,21 @@
         <property name="connection.password">ultra30dev</property>
 
         <!-- this is for debugging your code -->
-        <property name="hibernate.show_sql" >false</property>
+        <property name="hibernate.show_sql" >true</property>
         <property name="hibernate.format_sql" >true </property>
+
+        <!-- allow to hibernate to get stuff even after the session is closed -->
+        <property name="hibernate.enable_lazy_load_no_trans">true</property>
 
         <!-- connection pool reduces the load on the server -->
         <property name="connection.pool_size">3</property>
 
         <!-- here we have to list all of our entity objects -->
-        <mapping class="org.example.database.dao.Customer"/>
-        <mapping class="org.example.database.dao.Employee"/>
-        <mapping class="org.example.database.dao.Office"/>
-        <mapping class="org.example.database.dao.Order"/>
-        <mapping class="org.example.database.dao.OrderDetail"/>
-        <mapping class="org.example.database.dao.Product"/>
+        <mapping class="org.example.database.entity.Customer"/>
+        <mapping class="org.example.database.entity.Employee"/>
+        <mapping class="org.example.database.entity.Office"/>
+        <mapping class="org.example.database.entity.Order"/>
+        <mapping class="org.example.database.entity.OrderDetail"/>
+        <mapping class="org.example.database.entity.Product"/>
     </session-factory>
 </hibernate-configuration>
-
-

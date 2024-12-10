@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6c51b28-4b06-44ba-8a37-7deb23bb8f81" name="Changes" comment="" />
+    <list default="true" id="c6c51b28-4b06-44ba-8a37-7deb23bb8f81" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Module 305/Module 305/src/main/java/org/example/database/dao/CustomerDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 305/Module 305/src/main/java/org/example/database/dao/EmployeeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 305/Module 305/src/main/java/org/example/database/dao/OrderDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 305/Module 305/src/main/java/org/example/database/dao/OrderDetailDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module 305/Module 305/src/main/java/org/example/UpdatePriceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module 305/Module 305/src/main/java/org/example/UpdatePriceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module 305/Module 305/src/main/java/org/example/database/dao/ProductDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module 305/Module 305/src/main/java/org/example/database/dao/ProductDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module 305/Module 305/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module 305/Module 305/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,6 +96,7 @@
       <workItem from="1728655507796" duration="5935000" />
       <workItem from="1730930538707" duration="688000" />
       <workItem from="1730993356185" duration="721000" />
+      <workItem from="1731597230701" duration="728000" />
     </task>
     <servers />
   </component>
